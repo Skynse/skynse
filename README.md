@@ -1,4 +1,4 @@
-### Hi there 👋, Im Austin
+### Hi there 👋
 
 I'm a Software Developer in my senior year of high school.
 Currently working on projects with Python, and getting into Rust
