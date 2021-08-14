@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm a Software Developer in my senior year of high school.
-Rust is my favorite programming language, python comes second.
+
+Rust is my favorite programming language; Python comes second.
 
 - 4+ years of Python Programming experience
 - Game Development Experience (Check out [my itch.io page](https://plasmaquartz.itch.io))
