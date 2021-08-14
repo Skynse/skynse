@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a Software Developer in my senior year of high school.
-Currently working on projects with Python, and getting into Rust
+Rust is my favorite programming language, python comes second.
 
 - 4+ years of Python Programming experience
 - Game Development Experience (Check out [my itch.io page](https://plasmaquartz.itch.io))
