@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Developer in my senior year of high school.
+I'm a Software Developer pursuing a Bachelor of Science in Computer Science
 
 Rust is my favorite programming language; Python comes second.
 
