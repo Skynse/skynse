@@ -16,4 +16,5 @@ Checkout my [largest project yet](https://github.com/skynse/cephalopod)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skynse&layout=compact&card_width=250&hide_border=true&bg_color=353635&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
 <img  src="https://github-readme-stats.vercel.app/api/wakatime?username=Skynse&theme=nord&border_radius=0.75rem&custom_title=Stats&layout=compact" alt="stats"/>
+
 ![](https://komarev.com/ghpvc/?username=Skynse&color=ff69b4)
