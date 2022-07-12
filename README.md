@@ -15,5 +15,4 @@ Checkout my [largest project yet](https://github.com/skynse/cephalopod)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skynse&layout=compact&card_width=250&hide_border=true&bg_color=353635&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Skynse/2f03f746-b56c-43d1-b380-32ec70052737.png" /></a>
 ![](https://komarev.com/ghpvc/?username=Skynse&color=ff69b4)
