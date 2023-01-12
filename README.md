@@ -9,10 +9,3 @@ Rust is my favorite programming language; Python comes second.
 - Currently learning low level languages like Rust and C++/C
 
 Checkout my [largest project yet](https://github.com/skynse/cephalopod) 
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Skynse&show_icons=true&bg_color=353635&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skynse&layout=compact&card_width=250&hide_border=true&bg_color=353635&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-
-![](https://komarev.com/ghpvc/?username=Skynse&color=ff69b4)
