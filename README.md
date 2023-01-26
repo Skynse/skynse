@@ -8,4 +8,4 @@ Rust is my favorite programming language; Python comes second.
 - Game Development Experience (Check out [my itch.io page](https://plasmaquartz.itch.io))
 - Currently learning low level languages like Rust and C++/C
 
-Checkout my [largest project yet](https://github.com/skynse/cephalopod) 
+Working on powerful [Whiteboarding Software](https://treboard.dev) 
