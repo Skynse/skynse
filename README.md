@@ -7,4 +7,5 @@ Mainly a Flutter Developer but I have lots of experience with Rust, Python, and 
 - Game Development Experience (Check out [my itch.io page](https://blacksoapgames.itch.io))
 - Rust Developer
 
-Working on powerful [Whiteboarding Software](https://treboard.dev) 
+Currently working on Ingot, a cross-platform note taking tool
+![ingot showcase](W21RXegTKp.png)
